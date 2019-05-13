@@ -1,0 +1,30 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+	background-image: url("startup.jpg");
+	background-size: cover;
+  	font-family: 'Montserrat', sans-serif;
+}
+
+h4 {
+	text-align: center;
+	color: #FF6A4F;
+
+}
+
+h4 { 
+	position: relative; 
+	top: 400px;
+}
+
+.btn-warning {
+	position: relative;
+	top: 450px;
+	left: 400px;
+	background-color: #FF4523;
+
+}
